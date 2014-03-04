@@ -1,3 +1,17 @@
+###################################################################
+#
+#  This is a work in progress and is copyright Dave Auld (c)2014
+#
+#  more info to follow later, 4th March 2014
+#
+#  dave [at] dave - auld . net
+#
+###################################################################
+
+
+
+
+
 import threading
 import time
 import glob
